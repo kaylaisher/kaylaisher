@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CIM testing algorithm evaluating tool](https://github.com/kaylaisher/fault_detection_algorithm_project.git)
 
-- 🌱 I’m currently learning **Microprocessor Theory and Lab, 
+- 🌱 I’m currently learning Microprocessor Theory and Lab, Computer Organization, and Operating System
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pin-ci-huang-a94a7b367/](https://www.linkedin.com/in/pin-ci-huang-a94a7b367/)
 
