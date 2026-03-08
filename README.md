@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PIN-CI HUANG</h1>
 <h3 align="center">A passionate ECE student from Taiwan</h3>
 
-- 🔭 I’m currently working on In-memory Computing Testing
+- 🔭 I’m currently working on In-memory Computing Testing and FlowState productivity tool
 
 - 🌱 I’m currently learning Microprocessor Theory and Lab, Computer Organization, and Operating System
 
