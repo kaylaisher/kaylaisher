@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm PIN-CI HUANG</h1>
 <h3 align="center">A passionate ECE student from Taiwan</h3>
 
-- 🔭 I’m currently working on In-memory Computing Testing and FlowState productivity tool
+- 🔭 I’m currently working on In-memory Computing Testing
 
-- 🌱 I’m currently learning Microprocessor Theory and Lab, Computer Organization, and Operating System
+- 🌱 I’m currently interning at Academia Sinica
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pin-ci-huang-a94a7b367/](https://www.linkedin.com/in/pin-ci-huang-a94a7b367/)
 
-- 📫 How to reach me **kaylahuang0.0@gmail.com**
+- 📫 How to reach me **kaylahuang0.0@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
