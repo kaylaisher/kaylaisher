@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PIN-CI HUANG</h1>
 <h3 align="center">A passionate ECE student from Taiwan</h3>
 
-- 🔭 I’m currently working on In-memory Computing Testing
+- 🔭 I’m currently working on In-memory Computing Testing and BitNet CIM mapping hardware software co-design
 
 - 🌱 I’m currently interning at Academia Sinica
 
